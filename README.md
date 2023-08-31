@@ -1,2 +1,1 @@
-# react-saying-app-2308
-명언 앱
+# React 명언앱
